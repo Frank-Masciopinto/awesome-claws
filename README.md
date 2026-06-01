@@ -303,6 +303,7 @@ Suggested criteria for adding a project:
 - Open source or source-available
 - Actively maintained
 - Relevant to OpenClaw-style assistants, research tools, coding products, automation, skills, or community ecosystem
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social)
 - Useful in a real-world use case, not just a demo
 - Better understood as a **product** than a low-level library
 - Prefer projects with a working demo, clear docs, screenshots, or a clear installation path
