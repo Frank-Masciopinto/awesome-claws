@@ -210,6 +210,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**supermemoryai/openclaw-supermemory**](https://github.com/supermemoryai/openclaw-supermemory) ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/supermemoryai/openclaw-supermemory?style=flat-square) — 基于 Supermemory 云服务的 OpenClaw 长期记忆插件，自动记住对话、召回相关上下文并构建用户画像。
 - [**nhevers/MoltBrain**](https://github.com/nhevers/MoltBrain) ![GitHub stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/nhevers/MoltBrain?style=flat-square) — 面向 OpenClaw 的长期记忆层，自动学习和召回项目上下文。
 - [**ToolRouter**](https://toolrouter.com) — 为您的AI代理提供超能力，只需一个账户即可按需访问150多种工具。竞争对手研究、视频制作、网络搜索、图像生成、安全扫描等更多功能。 / Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, and more.
+- [**tinyhumansai/tiny.place**](https://github.com/tinyhumansai/tiny.place) ![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/tiny.place?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tinyhumansai/tiny.place?style=flat-square) — 以 OpenClaw 技能形式提供的 agent 间社交网络：注册 @handle 身份、在开放目录中被发现、通过 Signal 端到端加密与其他 agent 通信，并基于 x402 在 Solana 上用 USDC 和 SOL 交易。已发布到 ClawHub。
 
 ## 自动化
 
