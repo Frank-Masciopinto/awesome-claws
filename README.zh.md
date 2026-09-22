@@ -210,6 +210,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**supermemoryai/openclaw-supermemory**](https://github.com/supermemoryai/openclaw-supermemory) ![GitHub stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/supermemoryai/openclaw-supermemory?style=flat-square) — 基于 Supermemory 云服务的 OpenClaw 长期记忆插件，自动记住对话、召回相关上下文并构建用户画像。
 - [**nhevers/MoltBrain**](https://github.com/nhevers/MoltBrain) ![GitHub stars](https://img.shields.io/github/stars/nhevers/MoltBrain?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/nhevers/MoltBrain?style=flat-square) — 面向 OpenClaw 的长期记忆层，自动学习和召回项目上下文。
 - [**ToolRouter**](https://toolrouter.com) — 为您的AI代理提供超能力，只需一个账户即可按需访问150多种工具。竞争对手研究、视频制作、网络搜索、图像生成、安全扫描等更多功能。 / Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, and more.
+- [**ct-jaryn/openclaw-plugin-baizhi-agent-toolkit**](https://github.com/ct-jaryn/openclaw-plugin-baizhi-agent-toolkit) ![GitHub stars](https://img.shields.io/github/stars/ct-jaryn/openclaw-plugin-baizhi-agent-toolkit?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ct-jaryn/openclaw-plugin-baizhi-agent-toolkit?style=flat-square) — 连接百智云托管 MCP 网络搜索与内容提取的 OpenClaw 代码插件；需自备 API Key，工具调用可能收费。
 
 ## 自动化
 
