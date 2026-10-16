@@ -58,6 +58,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [个人助手](#个人助手)
 - [Agent公司](#agent公司)
 - [学术研究](#学术研究)
+- [基准测试与评估](#基准测试与评估)
 - [编程开发](#编程开发)
 - [技能与工具](#技能与工具)
 - [自动化](#自动化)
@@ -154,6 +155,12 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**Zaoqu-Liu/ScienceClaw**](https://github.com/Zaoqu-Liu/ScienceClaw) ![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/ScienceClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Zaoqu-Liu/ScienceClaw?style=flat-square) — 基于 OpenClaw 的 AI 科研天团 / 科研工作流助手项目。
 - [**Color2333/PaperMind**](https://github.com/Color2333/PaperMind) ![GitHub stars](https://img.shields.io/github/stars/Color2333/PaperMind?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Color2333/PaperMind?style=flat-square) — 面向追踪、分析、知识图谱和写作支持的 AI 学术研究工作流平台。
 - [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) — ARIS：轻量纯 Markdown 技能包，支持自主 ML 科研——跨模型审稿循环、idea 发现、实验自动化。无框架依赖，兼容 Claude Code、Codex、OpenClaw 等任意 LLM agent。
+
+## 基准测试与评估
+
+适用于在部署前检验 OpenClaw 风格助手能否完成真实任务。
+
+- [**reacher-z/ClawBench**](https://github.com/reacher-z/ClawBench) ![GitHub stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/reacher-z/ClawBench?style=flat-square) — 开源基准测试工具，让 OpenClaw 及其他网页 Agent 在真实网站上执行 283 个日常任务，并提供隔离运行、请求拦截与五层轨迹记录。[项目主页](https://claw-bench.com) · [论文](https://arxiv.org/abs/2604.08523)。
 
 ## 编程开发
 

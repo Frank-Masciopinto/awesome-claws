@@ -39,6 +39,7 @@ The best representative from each category. Start here for a quick overview of t
 - [Personal Assistant](#personal-assistant)
 - [Agent Company](#agent-company)
 - [Research](#research)
+- [Benchmarks & Evaluation](#benchmarks-evaluation)
 - [Coding](#coding)
 - [Skills & Tools](#skills-tools)
 - [Automation](#automation)
@@ -135,6 +136,12 @@ For paper reading, reference management, citation exploration, and building AI-n
 - [**Color2333/PaperMind**](https://github.com/Color2333/PaperMind) ![GitHub stars](https://img.shields.io/github/stars/Color2333/PaperMind?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Color2333/PaperMind?style=flat-square) — AI-driven academic research workflow platform focused on tracking, analysis, knowledge graphs, and writing support.
 - [**wanshuiyin/Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![GitHub stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) — ARIS: Lightweight Markdown-only skills for autonomous ML research — cross-model review loops, idea discovery, experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 - [**shuaizengMU/ProteinClaw**](https://github.com/shuaizengMU/ProteinClaw) ![GitHub stars](https://img.shields.io/github/stars/shuaizengMU/ProteinClaw?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/shuaizengMU/ProteinClaw?style=flat-square) — AI agent for protein bioinformatics that accepts natural-language research goals and automatically chains 53 specialized tools across major protein databases to synthesize answers.
+
+## Benchmarks & Evaluation
+
+For measuring whether OpenClaw-style assistants can complete real tasks before they are deployed.
+
+- [**reacher-z/ClawBench**](https://github.com/reacher-z/ClawBench) ![GitHub stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/reacher-z/ClawBench?style=flat-square) — Open-source benchmark that runs OpenClaw and other web agents through 283 everyday tasks on live websites, with isolated execution, request interception, and five-layer traces. [Project](https://claw-bench.com) · [Paper](https://arxiv.org/abs/2604.08523).
 
 ## Coding
 
