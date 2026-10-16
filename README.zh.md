@@ -107,6 +107,7 @@ OpenClaw 所在的生态横跨：个人 AI 助手、学术研究工作流、编�
 - [**laborany/laborany**](https://github.com/laborany/laborany) ![GitHub stars](https://img.shields.io/github/stars/laborany/laborany?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/laborany/laborany?style=flat-square) — 桌面 AI 工作台，把 AI 能力封装为「技能」，支持意图分发、定时执行和记忆管理，让非开发者也能调度 AI 完成工作流。
 - [**zhixianio/botdrop-android**](https://github.com/zhixianio/botdrop-android) ![GitHub stars](https://img.shields.io/github/stars/zhixianio/botdrop-android?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zhixianio/botdrop-android?style=flat-square) — 在 Android 手机上运行 AI agent 的引导式安装应用，无需终端和 CLI，开箱即用。
 - [**GCWing/BitFun**](https://github.com/GCWing/BitFun) ![GitHub stars](https://img.shields.io/github/stars/GCWing/BitFun?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/GCWing/BitFun?style=flat-square) — 新一代 Agent 系统，围绕「有人格和记忆的 AI 助手」构建，内置 Code Agent 和 Cowork Agent，支持开放扩展。
+- [**tinyhumansai/openhuman**](https://github.com/tinyhumansai/openhuman) ![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tinyhumansai/openhuman?style=flat-square) — 开源、自托管的社区个人 AI 助手。跨平台桌面应用（Tauri + Rust 内核），支持多渠道消息、知识图谱记忆、技能、语音，以及本地或云端 LLM 路由。
 
 ## Agent公司
 
